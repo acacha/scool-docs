@@ -1,0 +1,7 @@
+- ## Prologue
+    - [TODO](/docs/{{version}}/todo)
+- ## Getting Started
+    - [Installation](/docs/{{version}}/installation)
+- ## Mòduls
+    - [Incidències](/docs/{{version}}/incidents)
+    - [TODO](/docs/{{version}}/todo)
